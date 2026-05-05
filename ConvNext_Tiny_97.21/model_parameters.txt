@@ -1,3 +1,0 @@
-Model: ConvNeXt-Tiny
-Total Parameters: 27826280
-Trainable Parameters: 27826280
